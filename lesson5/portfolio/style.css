@@ -1,0 +1,33 @@
+html {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+#ynov {
+	width: 50%;
+	margin-top: -65px;
+}
+h3 {
+	padding-left: 55%;
+}
+#diplome {
+	margin-top: -85px;
+}
+#caline {
+	margin-top: -85px;
+}
+.text {
+	padding-left: 55%;
+}
+.contact {
+	margin-left: 35%;
+}
+#button {
+	color: #000;
+	background-color: #333;
+	width: 50px;
+	height: 25px;
+}
+#contact {
+	margin-top: 65px;
+}
